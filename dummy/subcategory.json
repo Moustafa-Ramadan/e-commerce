@@ -1,0 +1,74 @@
+[
+  {
+    "name": "smartphones",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "laptops",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "computer",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "camera & photo",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "Headphones",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "TVs, Satellites & Accessories",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "Video Games",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "Printers & Accessories",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "Data Storage",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "Computer Components",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "Computer Accessories",
+    "categoryId": "635db493246a608cd8a07787"
+  },
+  {
+    "name": "Women's Fashion",
+    "categoryId": "635dbbb6246a608cd8a077cc"
+  },
+  {
+    "name": "Men's Fashion",
+    "categoryId": "635dbbb6246a608cd8a077cc"
+  },
+  {
+    "name": "Watches",
+    "categoryId": "635dbbb6246a608cd8a077cc"
+  },
+  {
+    "name": "Jewelery",
+    "categoryId": "635dbbb6246a608cd8a077cc"
+  },
+  {
+    "name": "Eyewear",
+    "categoryId": "635dbbb6246a608cd8a077cc"
+  },
+  {
+    "name": "Girls' Fashion",
+    "categoryId": "635dbbb6246a608cd8a077cc"
+  },
+  {
+    "name": "Boys' Fashion",
+    "categoryId": "635dbbb6246a608cd8a077cc"
+  }
+]
